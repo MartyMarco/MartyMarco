@@ -1,28 +1,28 @@
-<div align="center">
+<p align="center">
+<img src="header.jpeg" width="100%" />
+</p>
 
-# Welcome to Martina's Github
-### < />
-
-</div>
+<h1 align="center">Welcome to Martina's Github</h1>
+<p align="center">&lt;/&gt;</p>
 
 ---
 
 <div align="center">
 
-### Computer Science Student
+### Computer Science Student  
 Università degli Studi di Milano
 
 </div>
 
 ---
 
-# 👩‍💻 About me
+# 👩‍💻 About Me
 
-Hello there! I'm **Martina Marcolini**, a **20-year-old Computer Science student** studying at the **University of Milan**.
+Hello! I'm **Martina Marcolini**, a **20-year-old Computer Science student** at the **University of Milan**.
 
-I’m currently exploring the world of programming while building my first projects and gaining experience outside university.
+I'm currently exploring different programming languages while building my first projects and gaining experience outside university.
 
-I enjoy learning new technologies, solving problems and constantly improving my skills.
+I enjoy solving problems, learning new technologies and improving my skills every day.
 
 ---
 
@@ -42,17 +42,12 @@ I enjoy learning new technologies, solving problems and constantly improving my 
 
 # 🧠 Projects
 
-Projects will appear here soon.
-
-Currently working on building my portfolio and experimenting with different technologies.
+Projects will appear here soon 👀
 
 ```
 Project Name
-
 Short description
-
 Technologies used
-
 Repository link
 ```
 
@@ -89,8 +84,7 @@ Repository link
 
 # 🥊 Sports
 
-🐎 **Equestrian – Show Jumping** (11 years)
-
+🐎 **Equestrian – Show Jumping** (11 years)  
 🥊 **Boxing & Self Defense** (2 years)
 
 Sports taught me discipline, focus and resilience — skills that also help me in programming.
