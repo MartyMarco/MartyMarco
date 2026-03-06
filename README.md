@@ -14,7 +14,7 @@ Università degli Studi di Milano
 </div>
 
 ---
-<h3>👩‍💻 ABOUT ME</h3>
+<h2>👩‍💻 About me </h2>
 
 Hello! I'm **Martina Marcolini**, a **20-year-old Computer Science student** at the **University of Milan**.
 
@@ -23,8 +23,7 @@ I'm currently exploring different programming languages while building my first 
 I enjoy solving problems, learning new technologies and improving my skills every day.
 
 ---
-
-# 🚀 Technologies
+<h2>🚀 Technologies</h2>
 
 <p align="center">
 
@@ -37,8 +36,7 @@ I enjoy solving problems, learning new technologies and improving my skills ever
 </p>
 
 ---
-
-# 🧠 Projects
+<h2>🧠 Projects</h2>
 
 Projects will appear here soon 👀
 
@@ -50,8 +48,7 @@ Repository link
 ```
 
 ---
-
-# 📊 Statistics
+<h2>📊 Statistics</h2>
 
 <div align="center">
 
@@ -62,8 +59,7 @@ Repository link
 </div>
 
 ---
-
-# 🔥 Contribution Streak
+<h2>🔥 Contribution Streak</h2>
 
 <div align="center">
 
@@ -72,15 +68,13 @@ Repository link
 </div>
 
 ---
-
-# 🤝 Activities
+<h2>🤝 Activities</h2>
 
 • Volunteer at **AI Week 2025**  
 • Volunteer at **AI Week 2026**
 
 ---
-
-# 🥊 Sports
+<h2>🥊 Sports</h2>
 
 🐎 **Equestrian – Show Jumping** (11 years)  
 🥊 **Boxing & Self Defense** (2 years)
@@ -88,8 +82,7 @@ Repository link
 Sports taught me discipline, focus and resilience — skills that also help me in programming.
 
 ---
-
-# 📫 Contact
+<h2>📫 Contact</h2>
 
 📧 marcolini.martina05@gmail.com
 
