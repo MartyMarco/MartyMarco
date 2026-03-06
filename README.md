@@ -1,6 +1,6 @@
 <p align="center">
-<img src="header.png" width="100%" />
-<h1 align="center">Welcome to Martina's Github</h1>
+  <strong style="font-size:32px;color:white;">Welcome to Martina's GitHub</strong><br/>
+  <img src="header.png" width="100%" />
 </p>
 <p align="center">&lt;/&gt;</p>
 
