@@ -14,7 +14,7 @@ Università degli Studi di Milano
 </div>
 
 ---
-
+<h2>👩‍💻 About Me</h2>
 # 👩‍💻 About Me
 
 Hello! I'm **Martina Marcolini**, a **20-year-old Computer Science student** at the **University of Milan**.
