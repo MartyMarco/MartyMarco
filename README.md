@@ -23,11 +23,15 @@ I enjoy challenges, learning new technologies and constantly improving both tech
 
 <p>
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white&labelColor=00ADD8" height="30"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="38"/>
 
-<img src="https://img.shields.io/badge/Java-F89820?style=flat&logo=openjdk&logoColor=white&labelColor=F89820" height="30"/>
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB" height="30"/>
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" height="38"/>
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38"/>
 
 </p>
 
@@ -93,7 +97,7 @@ Sports taught me **discipline, focus and resilience**, the same mindset I apply 
 
 ## 📫 Contact
 
-📧 **Email:**  
+📧 **Email**  
 marcolini.martina05@gmail.com
 
 ---
