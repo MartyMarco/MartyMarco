@@ -1,4 +1,3 @@
-<div align="center">
 
 # 👋 Hi, I'm Martina Marcolini
 
@@ -97,8 +96,6 @@ Sports taught me **discipline, focus and resilience**, the same mindset I apply 
 marcolini.martina05@gmail.com
 
 ---
-
-<div align="center">
 
 ⭐ *This profile will grow as I grow as a developer.*
 
