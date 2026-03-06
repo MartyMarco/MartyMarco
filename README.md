@@ -21,17 +21,17 @@ I enjoy challenges, learning new technologies and constantly improving both tech
 
 ## 🚀 Languages
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="38"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" height="38"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="40"/>
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38"/>
+<img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 
 </p>
 
