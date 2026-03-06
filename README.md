@@ -1,8 +1,7 @@
 <p align="center">
 <img src="header.jpeg" width="100%" />
-</p>
-
 <h1 align="center">Welcome to Martina's Github</h1>
+</p>
 <p align="center">&lt;/&gt;</p>
 
 ---
