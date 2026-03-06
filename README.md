@@ -1,5 +1,5 @@
 <p align="center">
-<img src="header.jpeg" width="100%" />
+<img src="header.jpeg.png" width="100%" />
 <h1 align="center">Welcome to Martina's Github</h1>
 </p>
 <p align="center">&lt;/&gt;</p>
