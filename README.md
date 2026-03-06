@@ -1,10 +1,3 @@
-<p align="center">
-  <strong style="font-size:32px;color:white;">Welcome to Martina's GitHub</strong><br/>
-  <img src="header.png" width="100%" />
-</p>
-<p align="center">&lt;/&gt;</p>
-
----
 
 <div align="center">
 
