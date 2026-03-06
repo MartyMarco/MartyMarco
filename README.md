@@ -18,7 +18,7 @@ I'm currently exploring different programming languages while building my first 
 I enjoy solving problems, learning new technologies and improving my skills every day.
 
 ---
-<h2>🚀 Technologies</h2>
+<h2>🚀 Languages</h2>
 
 <p align="center">
 
