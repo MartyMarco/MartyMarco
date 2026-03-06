@@ -1,3 +1,4 @@
+<div align="center">
 
 # 👋 Hi, I'm Martina Marcolini
 
@@ -20,13 +21,13 @@ I enjoy challenges, learning new technologies and constantly improving both tech
 
 ## 🚀 Languages
 
-<p align="left">
+<p>
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8&color=00ADD8" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white&labelColor=00ADD8" height="30"/>
 
-<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=F89820&color=F89820" />
+<img src="https://img.shields.io/badge/Java-F89820?style=flat&logo=openjdk&logoColor=white&labelColor=F89820" height="30"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB" height="30"/>
 
 </p>
 
@@ -96,6 +97,8 @@ Sports taught me **discipline, focus and resilience**, the same mindset I apply 
 marcolini.martina05@gmail.com
 
 ---
+
+<div align="center">
 
 ⭐ *This profile will grow as I grow as a developer.*
 
