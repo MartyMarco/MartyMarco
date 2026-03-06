@@ -1,60 +1,64 @@
 <div align="center">
 
-# 👋 Hi, I'm Martina Marcolini
-
-💻 Computer Science Student @ University of Milan  
-🚀 Exploring software development and building my first projects  
+# Welcome to Martina's Github
+### < />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-Hi! I'm **Martina Marcolini**, a **20-year-old Computer Science student** at the **Università degli Studi di Milano**.
+### Computer Science Student
+Università degli Studi di Milano
 
-I'm currently exploring different areas of programming while building my experience through personal projects and tech events.
-
-I enjoy challenges, learning new technologies and constantly improving both technically and personally.
+</div>
 
 ---
 
-## 🚀 Languages
+# 👩‍💻 About me
 
-<p align="left">
+Hello there! I'm **Martina Marcolini**, a **20-year-old Computer Science student** studying at the **University of Milan**.
 
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="40"/>
+I’m currently exploring the world of programming while building my first projects and gaining experience outside university.
 
-&nbsp;&nbsp;
+I enjoy learning new technologies, solving problems and constantly improving my skills.
 
-<img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
+---
 
-&nbsp;&nbsp;
+# 🚀 Technologies
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🧠 Projects
+# 🧠 Projects
 
-I'm currently working on projects that will appear here soon 👀  
+Projects will appear here soon.
 
-Stay tuned!
+Currently working on building my portfolio and experimenting with different technologies.
 
 ```
 Project Name
+
 Short description
 
-Tech stack
+Technologies used
 
 Repository link
 ```
 
 ---
 
-## 📊 GitHub Stats
+# 📊 Statistics
 
 <div align="center">
 
@@ -66,7 +70,7 @@ Repository link
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -76,34 +80,31 @@ Repository link
 
 ---
 
-## 🤝 Activities
+# 🤝 Activities
 
-🎤 Volunteer at **AI Week 2025**  
-🎤 Volunteer at **AI Week 2026**
-
----
-
-## 🥊 Sports & Passions
-
-🐎 **Equestrian – Show Jumping**  
-Practicing for **11 years**
-
-🥊 **Boxing & Self Defense**  
-Training for **2 years**
-
-Sports taught me **discipline, focus and resilience**, the same mindset I apply when learning programming.
+• Volunteer at **AI Week 2025**  
+• Volunteer at **AI Week 2026**
 
 ---
 
-## 📫 Contact
+# 🥊 Sports
 
-📧 **Email**  
-marcolini.martina05@gmail.com
+🐎 **Equestrian – Show Jumping** (11 years)
+
+🥊 **Boxing & Self Defense** (2 years)
+
+Sports taught me discipline, focus and resilience — skills that also help me in programming.
+
+---
+
+# 📫 Contact
+
+📧 marcolini.martina05@gmail.com
 
 ---
 
 <div align="center">
 
-⭐ *This profile will grow as I grow as a developer.*
+⭐ Thanks for visiting my profile
 
 </div>
