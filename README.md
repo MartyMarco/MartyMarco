@@ -17,11 +17,6 @@ I'm currently exploring different programming languages while building my first 
 
 I enjoy solving problems, learning new technologies and improving my skills every day.
 
-
-![](https://nirzak-streak-stats.vercel.app/?user=MartyMarco&theme=catppuccin_mocha)
-
-
-
 ---
 <h2>🚀 Tech Stack</h2>
 <p>
@@ -31,6 +26,10 @@ I enjoy solving problems, learning new technologies and improving my skills ever
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=MartyMarco&theme=catppuccin_mocha)
+
 
 ---
 <h2>🧠 Projects</h2>
