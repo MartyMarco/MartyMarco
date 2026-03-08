@@ -19,8 +19,6 @@ I enjoy solving problems, learning new technologies and improving my skills ever
 
 
 ![](https://github-readme-stats.vercel.app/api?username=MartyMarco&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MartyMarco&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartyMarco&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
