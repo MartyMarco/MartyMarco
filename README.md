@@ -56,15 +56,6 @@ Repository link
 </div>
 
 ---
-<h2>🔥 Contribution Streak</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 <h2>🤝 Activities</h2>
 
 • Volunteer at **AI Week 2025**  
