@@ -17,11 +17,11 @@ I'm currently exploring different programming languages while building my first 
 
 I enjoy solving problems, learning new technologies and improving my skills every day.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartyMarco&show_icons=true&theme=catppuccin_mocha)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MartyMarco&show_icons=true&theme=catppuccin_mocha)
 
 ![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=MartyMarco&theme=catppuccin_mocha)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartyMarco&layout=compact&theme=catppuccin_mocha)
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MartyMarco&layout=compact&theme=catppuccin_mocha)
 
 ---
 <h2>🚀 Tech Stack</h2>
