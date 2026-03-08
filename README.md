@@ -18,17 +18,13 @@ I'm currently exploring different programming languages while building my first 
 I enjoy solving problems, learning new technologies and improving my skills every day.
 
 ---
-<h2>🚀 Languages</h2>
-
-<p align="center">
+<h2>🚀 Tech Stack</h2>
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</p>
 
 ---
 <h2>🧠 Projects</h2>
