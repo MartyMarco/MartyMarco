@@ -17,7 +17,7 @@ I'm currently exploring different programming languages while building my first 
 
 I enjoy solving problems, learning new technologies and improving my skills every day.
 
-[![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartyMarco)](https://github.com/anuraghazra/github-readme-stats)
+[![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartyMarco&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
 ---
 <h2>🚀 Tech Stack</h2>
