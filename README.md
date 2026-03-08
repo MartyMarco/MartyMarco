@@ -19,13 +19,13 @@ I enjoy solving problems, learning new technologies and improving my skills ever
 
 ---
 <h2>🚀 Tech Stack</h2>
-
+<p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+</p>
 ---
 <h2>🧠 Projects</h2>
 
