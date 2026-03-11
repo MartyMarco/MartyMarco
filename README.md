@@ -34,24 +34,12 @@ Università degli Studi di Milano
 ---
 ## 🎯 Projects 
 
-Projects will appear here soon 👀
-
-```
-Project Name
-Short description
-Technologies used
-Repository link
-```
+• Volunteer at **AI Week 2025**  
+• Volunteer at **AI Week 2026**
 
 
 ---
 ## 🧩 Activities
-
-• Volunteer at **AI Week 2025**  
-• Volunteer at **AI Week 2026**
-
----
-## 🥊 Sports
 
 🐎 **Equestrian – Show Jumping** (11 years)  
 🥋 **Boxing & Self Defense** (2 years)
