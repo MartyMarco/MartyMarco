@@ -28,7 +28,7 @@ Università degli Studi di Milano
 
 ---
 ## 📊 Statistics
-![](https://nirzak-streak-stats.vercel.app/?user=MartyMarco&theme=catppuccin_mocha)
+![](https://github-readme-stats.vercel.app/api?username=MartyMarco&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 ---
