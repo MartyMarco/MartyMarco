@@ -50,6 +50,7 @@ Sports taught me discipline, focus and resilience — skills that also help me i
 ### 📫 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@martina.marcolini_)<br/> 
+[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/174709865-martina-marcolini)<br/> 
 
 ---
 
