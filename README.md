@@ -15,7 +15,7 @@ Università degli Studi di Milano
       &thinsp;&ensp;&emsp;&emsp;I'm currently exploring different programming languages while building my first projects and gaining experience outside university.</br>
       &thinsp;&ensp;&emsp;&emsp;I enjoy solving problems, learning new technologies and improving my skills every day.</br>
       &thinsp;&ensp;&emsp;&emsp;</br>
-      &thinsp;&ensp;&emsp;&emsp;**(🐴) Equestrian – Show Jumping** (11 years).</br>
+  🐴  &thinsp;&ensp;&emsp;&emsp;**Equestrian – Show Jumping** (11 years).</br>
       &thinsp;&ensp;&emsp;&emsp;Sports taught me discipline, focus and resilience — skills that also help me in programming.</br>
 
 
