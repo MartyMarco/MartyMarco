@@ -10,7 +10,7 @@ Sports taught me discipline, focus and resilience — skills that also help me i
 
 
 ---
-### 🎯 Projects 
+### 🎯 Experience 
 
 • Volunteer at **AI Week 2025**  
 • Volunteer at **AI Week 2026**
