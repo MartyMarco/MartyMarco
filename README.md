@@ -11,17 +11,14 @@
 ### 🧬 ABOUT
 ---
 
-```go
-func Me() map[string]any {
-	return map[string]any{
-		"does":     "Computer Science student",
-		"degree":   "BSc Computer Science @ University of Milan",
-		"learning": []string{"Go", "Java", "Python"},
-		"speaks":   []string{"Italian", "English"},
-		"rides":    "Show jumping 🐎",
-		"motto":    "Always learning",
-	}
-}
+```python
+class Me:
+    does     = "Computer Science student"
+    degree   = "BSc Computer Science @ University of Milan"
+    learning = ["Go", "Java", "Python"]
+    speaks   = ["Italian", "English"]
+    rides    = "Show jumping 🐎"
+    motto    = "Always learning"
 ```
 
 
