@@ -21,7 +21,6 @@ class Me:
     motto    = "Always learning"
 ```
 
-<br />
 
 ### 🌱 EXPERIENCE
 ---
@@ -32,25 +31,23 @@ class Me:
 <img src="assets/experience-next.svg" width="32%" alt="Next chapter, coming soon" />
 </p>
 
-<br />
 
 ### 🚀 PROJECTS
 ---
 
-<p align="center"><b>🚧 Work in progress 🚧</b><br /><sub>Still compiling... the first projects are loading. Come back after the next <code>go build</code> 🐹</sub></p>
+<p align="center"><b>🚧 Work in progress 🚧</b><br /><sub>Still compiling... the first projects are loading. Come back after the next <code>go build</sub></code> 🐹</p>
 
-<br />
 
 ### 🧰 STACK
 ---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=go,figma,notion&theme=dark" alt="Tech stack" />
 </p>
 
 <br />
 
-<p align="center"><sub><b>Working on something cool? I'd love to hear about it.</b></sub></p>
+<p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
 
 <p align="center">
 <a href="mailto:marcolini.martina05@gmail.com?subject=Hi%20from%20GitHub%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/say_hi-65081F?style=for-the-badge" alt="Email me" /></a>
