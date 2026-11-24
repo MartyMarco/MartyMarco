@@ -7,7 +7,9 @@
 <a href="https://www.linkedin.com/in/martina-marcolini-885799410/"><img src="https://img.shields.io/badge/LinkedIn-65081F?style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/MartyMarco"><img src="https://img.shields.io/badge/Portfolio-65081F?style=for-the-badge" alt="Portfolio" /></a> <a href="mailto:marcolini.martina05@gmail.com?subject=Hi%20from%20GitHub%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/Email-65081F?style=for-the-badge" alt="Email" /></a>
 </p>
 
-## 🧬 About
+
+### 🧬 ABOUT
+---
 
 ```python
 me = {
@@ -21,7 +23,9 @@ me = {
 }
 ```
 
-## 🌱 Experience
+
+### 🌱 EXPERIENCE
+---
 
 <table>
 <tr>
@@ -34,11 +38,15 @@ me = {
 </tr>
 </table>
 
-## 🚀 Projects
+
+### 🚀 PROJECTS
+---
 
 <p align="center"><b>🚧 Work in progress 🚧</b><br /><sub>Still compiling... the first projects are loading. Come back after the next <code>go build</code> 🐹</sub></p>
 
-## 🧰 Stack
+
+### 🧰 STACK
+---
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Tech stack" />
