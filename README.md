@@ -21,6 +21,7 @@ class Me:
     motto    = "Always learning"
 ```
 
+<br />
 
 ### 🌱 EXPERIENCE
 ---
@@ -31,12 +32,14 @@ class Me:
 <img src="assets/experience-next.svg" width="32%" alt="Next chapter, coming soon" />
 </p>
 
+<br />
 
 ### 🚀 PROJECTS
 ---
 
 <p align="center"><b>🚧 Work in progress 🚧</b><br /><sub>Still compiling... the first projects are loading. Come back after the next <code>go build</code> 🐹</sub></p>
 
+<br />
 
 ### 🧰 STACK
 ---
