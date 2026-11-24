@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/MartyMarco"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:65081F&height=180&section=header&text=Martina%20Marcolini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student&descSize=18&descAlignY=64" width="100%" alt="Martina Marcolini, Student" /></a>
+<a href="https://github.com/MartyMarco"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:212830,100:65081F&height=180&section=header&text=Martina%20Marcolini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student&descSize=18&descAlignY=64" width="100%" alt="Martina Marcolini, Student" /></a>
 <br />
 </p>
 
