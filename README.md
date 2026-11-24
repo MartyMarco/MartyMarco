@@ -3,6 +3,8 @@
 <br />
 </p>
 
+<br />
+
 <p align="center">
 <a href="https://www.linkedin.com/in/martina-marcolini-885799410/"><img src="https://img.shields.io/badge/LinkedIn-65081F?style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/MartyMarco"><img src="https://img.shields.io/badge/Portfolio-65081F?style=for-the-badge" alt="Portfolio" /></a> <a href="mailto:marcolini.martina05@gmail.com?subject=Hi%20from%20GitHub%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/Email-65081F?style=for-the-badge" alt="Email" /></a>
 </p>
