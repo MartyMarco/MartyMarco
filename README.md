@@ -27,16 +27,11 @@ me = {
 ### 🌱 EXPERIENCE
 ---
 
-<table>
-<tr>
-<td width="36%" valign="top"><b>Your Role</b><br /><sub>Company, City · Year</sub></td>
-<td valign="top">What you did, in one or two lines.</td>
-</tr>
-<tr>
-<td width="36%" valign="top"><b>Your Role</b><br /><sub>Company, City · Year to Year</sub></td>
-<td valign="top">What you did, in one or two lines.</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://lnkd.in/p/esNPxRZP"><img src="assets/experience-aiweek.svg" width="32%" alt="AI Week, Volunteer, 2025 – 2026" /></a>
+<img src="assets/experience-radio.svg" width="32%" alt="Radio Statale, Audio & Streaming Tech, Oct 2026 – Present" />
+<img src="assets/experience-next.svg" width="32%" alt="Next chapter, coming soon" />
+</p>
 
 
 ### 🚀 PROJECTS
