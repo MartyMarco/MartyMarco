@@ -11,15 +11,16 @@
 ### 🧬 ABOUT
 ---
 
-```python
-me = {
-    "does": "what you do, in one line",
-    "based": "your city / country",
-    "was": "your past role @ company",
-    "degree": "your degree, school",
-    "learning": "what you are learning",
-    "speaks": ["Language 1", "Language 2"],
-    "pronouns": "your pronouns",
+```go
+func Me() map[string]any {
+	return map[string]any{
+		"does":     "Computer Science student",
+		"degree":   "BSc Computer Science @ University of Milan",
+		"learning": []string{"Go", "Java", "Python"},
+		"speaks":   []string{"Italian", "English"},
+		"rides":    "Show jumping 🐎",
+		"motto":    "Always learning",
+	}
 }
 ```
 
